@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "LeiloMais",
+    "slug": "LeiloMais",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
