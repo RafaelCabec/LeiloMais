@@ -1,8 +1,14 @@
 {
   "expo": {
     "name": "LeiloMais",
-    "slug": "LeiloMais",
+    "slug": "leilomais",
     "version": "1.0.0",
+    "icon": "./src/img/icon.png",
+    "splash": {
+      "image" : "./src/img/icon.png",
+      "resizeMode" : "contain",
+      "backgroundColor":"#01D696"
+    },
     "assetBundlePatterns": [
       "**/*"
     ]

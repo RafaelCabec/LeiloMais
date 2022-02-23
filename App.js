@@ -5,8 +5,9 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Open up App.js to start working on your app!</Text>
-      <StatusBar style="auto" />
+      <Text>Hello word!</Text>
+      <StatusBar style="auto" /> 
+      {/* o status bar style auto vai puxar back ground para barra de notificação */}
     </View>
   );
 }
