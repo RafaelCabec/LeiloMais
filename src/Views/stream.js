@@ -22,7 +22,7 @@ export default function Stream() {
         <View>
             <YoutubePlayer
                 height = {500}
-                width = {450} 
+                width = {400} 
                 play = {playing}
                 videoId = {VideoId}
                 onChangeState = {onStateChange}
